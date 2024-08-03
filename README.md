@@ -11,4 +11,5 @@ This repository aims to provide an resource for those interested in understandin
 ### Supervised Learning
 - **Linear Regression**
 - **Perceptron**
+- **Logistic Regression**
 
